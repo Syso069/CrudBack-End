@@ -23,6 +23,6 @@ cd nome-do-repo-backend
 ```
 
 # ⚙️ Configuração do Banco de Dados
-spring.datasource.url=jdbc:mariadb://localhost:3306/nome_do_banco
-spring.datasource.username=seu_usuario
-spring.datasource.password=sua_senha
+- spring.datasource.url=jdbc:mariadb://localhost:3306/nome_do_banco
+- spring.datasource.username=seu_usuario
+- spring.datasource.password=sua_senha
