@@ -18,7 +18,7 @@ Este projeto é um **CRUD** (Create, Read, Update, Delete) desenvolvido com **Sp
 
 ### 📥 Clonando o repositório:
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repo-backend.git
+git clone https://github.com/Syso069/CrudBack-End
 cd nome-do-repo-backend
 ```
 
