@@ -1,6 +1,6 @@
 # 📦 CRUD com Spring Boot e MariaDB
 
-Este projeto é um **CRUD** (Create, Read, Update, Delete) desenvolvido com **Spring Boot** e **MariaDB**. Ele fornece uma API para gerenciar [descreva brevemente o que é gerenciado, ex: usuários, produtos, tarefas, etc.].
+Este projeto é um **CRUD** (Create, Read, Update, Delete) desenvolvido com **Spring Boot** e **MariaDB**. Ele fornece uma API para gerenciar produtos e valores desses produtos.
 
 ## 🛠️ Tecnologias Utilizadas
 - **Java** (Spring Boot)
