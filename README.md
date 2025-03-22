@@ -15,10 +15,12 @@ Este projeto é um **CRUD** (Create, Read, Update, Delete) desenvolvido com **Sp
 - MariaDB instalado ou um container Docker rodando
 - Maven instalado
 
+
 ### 📥 Clonando o repositório:
 ```bash
 git clone https://github.com/seu-usuario/nome-do-repo-backend.git
 cd nome-do-repo-backend
+```
 
 #⚙️ Configuração do Banco de Dados
 spring.datasource.url=jdbc:mariadb://localhost:3306/nome_do_banco
